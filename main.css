@@ -1,0 +1,52 @@
+/* Základní styly stránky */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  /* Styly pro hlavičku */
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  /* Styly pro sekce */
+  
+  section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+  }
+  
+  section h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  /* Styly pro zápatí */
+  
+  footer {
+    background-color: #b2d4be;
+  }
+  
+  footer p {
+    margin-bottom: 0;
+  }
+  
+  footer a {
+    color: #fff;
+  }
+  
